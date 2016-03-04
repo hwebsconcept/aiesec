@@ -23,7 +23,6 @@
 			
     <icon src="icon/icon.jpg" />
     <gap:splash src="icon/splash.png" />
-	
-    <plugin name="com.plugins.shortcut" spec="0.1.1" source="pgb" />
+    <gap:plugin name="com.plugins.shortcut" version="0.1.1" />
 
 </widget>
